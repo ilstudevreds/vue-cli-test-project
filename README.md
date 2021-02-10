@@ -1,4 +1,4 @@
-# test-project
+# Vue Cli Test Project
 Run `npm install` to setup, and presto! All done.
 
 
