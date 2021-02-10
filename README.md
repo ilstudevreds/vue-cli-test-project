@@ -1,4 +1,6 @@
 # test-project
+Run `npm install` to setup, and presto! All done.
+
 
 ## Project setup
 ```
